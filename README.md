@@ -1,2 +1,2 @@
 # ejn-nu.github.io
-github.io site
+ejn.nu github.io site
